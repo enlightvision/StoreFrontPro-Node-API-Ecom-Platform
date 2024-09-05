@@ -1,0 +1,421 @@
+[
+  {
+    "_id": { "$oid": "66bb1e603485ded62de329c9" },
+    "brand": "Apple",
+    "title": "Apple 15 pro max",
+    "price": 151700,
+    "category": "phone",
+    "stoke": 0,
+    "images": [
+      "/uploads/image/products/5dzim80PgfZLXKD.jpg",
+      "/uploads/image/products/vNj2C87wQz87uAO.jpg",
+      "/uploads/image/products/5Dt2m9lBmntVzBS.jpg",
+      "/uploads/image/products/WubsbP9Sy8gEBCA.jpg",
+      "/uploads/image/products/Jn7T6NmQn5kNDAN.jpg"
+    ],
+    "descriptions": "FORGED IN TITANIUM — iPhone 15 Pro Max has a strong and light aerospace-grade titanium design with a textured matte-glass back. It also features a Ceramic Shield front that’s tougher than any smartphone glass. And it’s splash, water, and dust resistant.",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:50:40.690Z" },
+    "updatedAt": { "$date": "2024-08-13T08:50:40.690Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb1efccf9e2973a1365d10" },
+    "brand": "Apple",
+    "title": "Apple MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey",
+    "price": 67990,
+    "category": "laptop",
+    "stoke": 100,
+    "images": [
+      "/uploads/image/products/Tyh5aK6VDQAvo77.jpg",
+      "/uploads/image/products/GttEVYeJq1CU5a3.jpg",
+      "/uploads/image/products/KbqIpokKukMzeQU.jpg",
+      "/uploads/image/products/NQBiNEUTNHOD0uq.jpg"
+    ],
+    "descriptions": "Powerful Performance – Take on everything from professional-quality editing to action-packed gaming with ease. The Apple M1 chip with an 8-core CPU delivers up to 3.5x faster performance than the previous generation while using way less power.",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:53:16.010Z" },
+    "updatedAt": { "$date": "2024-08-13T08:53:16.010Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb1f7a63948b685ba353b4" },
+    "brand": "Apple",
+    "title": "Apple 2023 MacBook Pro (16-inch, M3 Max chip with 16‑core CPU and 40‑core GPU, 48GB Unified Memory, 1TB) - Space Black",
+    "price": 369990,
+    "category": "laptop",
+    "stoke": 50,
+    "images": [
+      "/uploads/image/products/fG3ryMYXrefiaVx.jpg",
+      "/uploads/image/products/qJWm3Jcpj5Aj5T7.jpg",
+      "/uploads/image/products/XyDyGSNLU3YxhzY.jpg",
+      "/uploads/image/products/6rPYwL9So8PeoXo.jpg",
+      "/uploads/image/products/ileB3w4pSdnhnjo.jpg"
+    ],
+    "descriptions": "SUPERCHARGED BY M3 PRO OR M3 MAX — The Apple M3 Pro chip, with a 12-core CPU and 18-core GPU using hardware-accelerated ray tracing, delivers amazing performance for demanding workflows like manipulating gigapixel panoramas or compiling millions of lines of code. M3 Max, with an up to 16-core CPU and up to 40-core GPU, drives extreme performance for the most advanced workflows like rendering intricate 3D content or developing transformer models with billions of parameters.",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:55:22.167Z" },
+    "updatedAt": { "$date": "2024-08-13T08:55:22.167Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb1f8d977dd0f573bed9a1" },
+    "brand": "Apple",
+    "title": "Apple 2023 MacBook Pro (16-inch, M3 Max chip with 16‑core CPU and 40‑core GPU, 48GB Unified Memory, 1TB) - Space Black",
+    "price": 369990,
+    "category": "laptop",
+    "stoke": 50,
+    "images": [
+      "/uploads/image/products/gQOgRSbFXSgfCtO.jpg",
+      "/uploads/image/products/DKPvoHmhhK5pfAY.jpg",
+      "/uploads/image/products/b6raj6nwFYCGUGR.jpg",
+      "/uploads/image/products/n8FSrXLZjvQsvUE.jpg",
+      "/uploads/image/products/eXfqNsmLihyV9QC.jpg"
+    ],
+    "descriptions": "SUPERCHARGED BY M3 PRO OR M3 MAX — The Apple M3 Pro chip, with a 12-core CPU and 18-core GPU using hardware-accelerated ray tracing, delivers amazing performance for demanding workflows like manipulating gigapixel panoramas or compiling millions of lines of code. M3 Max, with an up to 16-core CPU and up to 40-core GPU, drives extreme performance for the most advanced workflows like rendering intricate 3D content or developing transformer models with billions of parameters.",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:55:41.878Z" },
+    "updatedAt": { "$date": "2024-08-13T08:55:41.878Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb1f8f2e81287a9ca15a54" },
+    "brand": "Apple",
+    "title": "Apple 2023 MacBook Pro (16-inch, M3 Max chip with 16‑core CPU and 40‑core GPU, 48GB Unified Memory, 1TB) - Space Black",
+    "price": 369990,
+    "category": "laptop",
+    "stoke": 50,
+    "images": [
+      "/uploads/image/products/LcwGolT0iFBiZDZ.jpg",
+      "/uploads/image/products/75qZxxc33l5TNgo.jpg",
+      "/uploads/image/products/zMzAfPtoBkT7F7J.jpg",
+      "/uploads/image/products/0TaHaPoRhEYPnyW.jpg",
+      "/uploads/image/products/nrWUIwvr677oEDq.jpg"
+    ],
+    "descriptions": "SUPERCHARGED BY M3 PRO OR M3 MAX — The Apple M3 Pro chip, with a 12-core CPU and 18-core GPU using hardware-accelerated ray tracing, delivers amazing performance for demanding workflows like manipulating gigapixel panoramas or compiling millions of lines of code. M3 Max, with an up to 16-core CPU and up to 40-core GPU, drives extreme performance for the most advanced workflows like rendering intricate 3D content or developing transformer models with billions of parameters.",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:55:43.522Z" },
+    "updatedAt": { "$date": "2024-08-13T08:55:43.522Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb1f90b16450119aca646f" },
+    "brand": "Apple",
+    "title": "Apple 2023 MacBook Pro (16-inch, M3 Max chip with 16‑core CPU and 40‑core GPU, 48GB Unified Memory, 1TB) - Space Black",
+    "price": 369990,
+    "category": "laptop",
+    "stoke": 50,
+    "images": [
+      "/uploads/image/products/WfkqCxkcjRnF98u.jpg",
+      "/uploads/image/products/8TisRZ8F4MNALb9.jpg",
+      "/uploads/image/products/F1AHDr5FQnrNisM.jpg",
+      "/uploads/image/products/ApfwzFZgsAe0b0v.jpg",
+      "/uploads/image/products/n5vTHvwxrV4vsH9.jpg"
+    ],
+    "descriptions": "SUPERCHARGED BY M3 PRO OR M3 MAX — The Apple M3 Pro chip, with a 12-core CPU and 18-core GPU using hardware-accelerated ray tracing, delivers amazing performance for demanding workflows like manipulating gigapixel panoramas or compiling millions of lines of code. M3 Max, with an up to 16-core CPU and up to 40-core GPU, drives extreme performance for the most advanced workflows like rendering intricate 3D content or developing transformer models with billions of parameters.",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:55:44.444Z" },
+    "updatedAt": { "$date": "2024-08-13T08:55:44.444Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb1f91303f77818794dbaa" },
+    "brand": "Apple",
+    "title": "Apple 2023 MacBook Pro (16-inch, M3 Max chip with 16‑core CPU and 40‑core GPU, 48GB Unified Memory, 1TB) - Space Black",
+    "price": 369990,
+    "category": "laptop",
+    "stoke": 50,
+    "images": [
+      "/uploads/image/products/UowLVIeheNFLCAn.jpg",
+      "/uploads/image/products/v7CLfBffXCd6Gkr.jpg",
+      "/uploads/image/products/yQeMOIOKjq4xavc.jpg",
+      "/uploads/image/products/FislGDm8Zrlz6xd.jpg",
+      "/uploads/image/products/KdqF7bFwAAZLtAF.jpg"
+    ],
+    "descriptions": "SUPERCHARGED BY M3 PRO OR M3 MAX — The Apple M3 Pro chip, with a 12-core CPU and 18-core GPU using hardware-accelerated ray tracing, delivers amazing performance for demanding workflows like manipulating gigapixel panoramas or compiling millions of lines of code. M3 Max, with an up to 16-core CPU and up to 40-core GPU, drives extreme performance for the most advanced workflows like rendering intricate 3D content or developing transformer models with billions of parameters.",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:55:45.304Z" },
+    "updatedAt": { "$date": "2024-08-13T08:55:45.304Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb1f9296a419e228eadac7" },
+    "brand": "Apple",
+    "title": "Apple 2023 MacBook Pro (16-inch, M3 Max chip with 16‑core CPU and 40‑core GPU, 48GB Unified Memory, 1TB) - Space Black",
+    "price": 369990,
+    "category": "laptop",
+    "stoke": 50,
+    "images": [
+      "/uploads/image/products/im8NBXFoR1RlLkg.jpg",
+      "/uploads/image/products/PYgNSA16F9cPw62.jpg",
+      "/uploads/image/products/Nu26D7aULFQ8hb1.jpg",
+      "/uploads/image/products/JKMXBUVyoWzXf3b.jpg",
+      "/uploads/image/products/Q8BN20OCEniaMEr.jpg"
+    ],
+    "descriptions": "SUPERCHARGED BY M3 PRO OR M3 MAX — The Apple M3 Pro chip, with a 12-core CPU and 18-core GPU using hardware-accelerated ray tracing, delivers amazing performance for demanding workflows like manipulating gigapixel panoramas or compiling millions of lines of code. M3 Max, with an up to 16-core CPU and up to 40-core GPU, drives extreme performance for the most advanced workflows like rendering intricate 3D content or developing transformer models with billions of parameters.",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:55:46.227Z" },
+    "updatedAt": { "$date": "2024-08-13T08:55:46.227Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb1f93d8156faec24c277e" },
+    "brand": "Apple",
+    "title": "Apple 2023 MacBook Pro (16-inch, M3 Max chip with 16‑core CPU and 40‑core GPU, 48GB Unified Memory, 1TB) - Space Black",
+    "price": 369990,
+    "category": "laptop",
+    "stoke": 50,
+    "images": [
+      "/uploads/image/products/28XR868xl7pfmAm.jpg",
+      "/uploads/image/products/0TeeD52qb2l95A3.jpg",
+      "/uploads/image/products/PoVySqxoB2a1uX5.jpg",
+      "/uploads/image/products/CzhYDUEnjYFofb9.jpg",
+      "/uploads/image/products/wanoL4g049L0lta.jpg"
+    ],
+    "descriptions": "SUPERCHARGED BY M3 PRO OR M3 MAX — The Apple M3 Pro chip, with a 12-core CPU and 18-core GPU using hardware-accelerated ray tracing, delivers amazing performance for demanding workflows like manipulating gigapixel panoramas or compiling millions of lines of code. M3 Max, with an up to 16-core CPU and up to 40-core GPU, drives extreme performance for the most advanced workflows like rendering intricate 3D content or developing transformer models with billions of parameters.",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:55:47.289Z" },
+    "updatedAt": { "$date": "2024-08-13T08:55:47.289Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb1ffa857efecb9e1a745b" },
+    "brand": "Apple",
+    "title": "Apple 15 pro max",
+    "price": 67990,
+    "category": "phone",
+    "stoke": 100,
+    "images": [
+      "/uploads/image/products/hqofLBTZkM0qGho.jpg",
+      "/uploads/image/products/czSU9p0d3gIfttq.jpg",
+      "/uploads/image/products/Q6jEk6yHpF5WNeY.jpg",
+      "/uploads/image/products/Jo5FlABs874QN97.jpg",
+      "/uploads/image/products/HQFkWIw7K6THGxb.jpg"
+    ],
+    "descriptions": "Apple Product",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:57:30.074Z" },
+    "updatedAt": { "$date": "2024-08-13T08:57:30.074Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb1ffc0cefadba936ba71f" },
+    "brand": "Apple",
+    "title": "Apple 15 pro max",
+    "price": 67990,
+    "category": "phone",
+    "stoke": 100,
+    "images": [
+      "/uploads/image/products/JEw7lNyLTvsUhl4.jpg",
+      "/uploads/image/products/46tUiDh4y2wgB8A.jpg",
+      "/uploads/image/products/6SOqS26BK5jX962.jpg",
+      "/uploads/image/products/LSAMR53w3lBMPd0.jpg",
+      "/uploads/image/products/lfbgSC2m4Cq6mKg.jpg"
+    ],
+    "descriptions": "Apple Product",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:57:32.267Z" },
+    "updatedAt": { "$date": "2024-08-13T08:57:32.267Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb1ffd86c9e4cfef891fca" },
+    "brand": "Apple",
+    "title": "Apple 15 pro max",
+    "price": 67990,
+    "category": "phone",
+    "stoke": 100,
+    "images": [
+      "/uploads/image/products/wRqz8WQF3PBpjxz.jpg",
+      "/uploads/image/products/U0ejczviV4yMwBs.jpg",
+      "/uploads/image/products/BPY2Uunomp5nqSo.jpg",
+      "/uploads/image/products/ba2rTq1bH8BzOj1.jpg",
+      "/uploads/image/products/YwUTx8aJtDfC5xy.jpg"
+    ],
+    "descriptions": "Apple Product",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:57:33.883Z" },
+    "updatedAt": { "$date": "2024-08-13T08:57:33.883Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb1fffab8872f930498e91" },
+    "brand": "Apple",
+    "title": "Apple 15 pro max",
+    "price": 67990,
+    "category": "phone",
+    "stoke": 100,
+    "images": [
+      "/uploads/image/products/fdgIQI6i9HK71Si.jpg",
+      "/uploads/image/products/KbllFii9sfmAg5k.jpg",
+      "/uploads/image/products/lCePkeHXFFQxvJZ.jpg",
+      "/uploads/image/products/mSjhcirOCgtqs1c.jpg",
+      "/uploads/image/products/632b2ulpzLRdag4.jpg"
+    ],
+    "descriptions": "Apple Product",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:57:35.174Z" },
+    "updatedAt": { "$date": "2024-08-13T08:57:35.174Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb2000411f1d90f01e9be8" },
+    "brand": "Apple",
+    "title": "Apple 15 pro max",
+    "price": 67990,
+    "category": "phone",
+    "stoke": 100,
+    "images": [
+      "/uploads/image/products/5vjQKNDHwF4NYnm.jpg",
+      "/uploads/image/products/F24Js8Dq2LEvFpF.jpg",
+      "/uploads/image/products/scq6cWPnydonds1.jpg",
+      "/uploads/image/products/cVl7uJKEnyLYdBv.jpg",
+      "/uploads/image/products/bpxAFrPyqMUQLGN.jpg"
+    ],
+    "descriptions": "Apple Product",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:57:36.445Z" },
+    "updatedAt": { "$date": "2024-08-13T08:57:36.445Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb200134bdee688a620d51" },
+    "brand": "Apple",
+    "title": "Apple 15 pro max",
+    "price": 67990,
+    "category": "phone",
+    "stoke": 100,
+    "images": [
+      "/uploads/image/products/3fGYNFwhgOWxT8w.jpg",
+      "/uploads/image/products/mr3CEw3177wqjwZ.jpg",
+      "/uploads/image/products/mnVVAMEJ6t8OibQ.jpg",
+      "/uploads/image/products/sLGUrQdze2CKUwz.jpg",
+      "/uploads/image/products/3mRLptTT72VA0ii.jpg"
+    ],
+    "descriptions": "Apple Product",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:57:37.780Z" },
+    "updatedAt": { "$date": "2024-08-13T08:57:37.780Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb2002710b4fa7c094a9cb" },
+    "brand": "Apple",
+    "title": "Apple 15 pro max",
+    "price": 67990,
+    "category": "phone",
+    "stoke": 100,
+    "images": [
+      "/uploads/image/products/Av6EjIAZMMl964H.jpg",
+      "/uploads/image/products/yA6m5dhoeLOONEr.jpg",
+      "/uploads/image/products/5YMFszadaoV1lde.jpg",
+      "/uploads/image/products/etsvJvSZ98ciLsk.jpg",
+      "/uploads/image/products/5tQz2WWlgnpIwCp.jpg"
+    ],
+    "descriptions": "Apple Product",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:57:38.996Z" },
+    "updatedAt": { "$date": "2024-08-13T08:57:38.996Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb202325b74552ed0129a9" },
+    "brand": "Apple",
+    "title": "Apple 16 pro max",
+    "price": 67990,
+    "category": "phone",
+    "stoke": 100,
+    "images": [
+      "/uploads/image/products/zpk9aTm7YVJiT3l.jpg",
+      "/uploads/image/products/UVi1FrbNF2ejfmf.jpg",
+      "/uploads/image/products/Z7wEGBgAUrwOfYA.jpg",
+      "/uploads/image/products/F7QNyR2YYOSnd5b.jpg",
+      "/uploads/image/products/R6aNwxrNpfxlU5c.jpg"
+    ],
+    "descriptions": "Apple Product",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:58:11.824Z" },
+    "updatedAt": { "$date": "2024-08-13T08:58:11.824Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb2027ac3dd3035ad1aa69" },
+    "brand": "Apple",
+    "title": "Apple 17 pro max",
+    "price": 67990,
+    "category": "phone",
+    "stoke": 96,
+    "images": [
+      "/uploads/image/products/yfegabHQ8oV6V7o.jpg",
+      "/uploads/image/products/ezbUnczpmcCVRWD.jpg",
+      "/uploads/image/products/NIv1vdgH1fzVZ2g.jpg",
+      "/uploads/image/products/weR04gGSkjCKBr2.jpg",
+      "/uploads/image/products/u7ed2SXqVxaVGDp.jpg"
+    ],
+    "descriptions": "Apple Product",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:58:15.380Z" },
+    "updatedAt": { "$date": "2024-09-03T04:54:11.869Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb202b9ca6b19da3802a89" },
+    "brand": "Apple",
+    "title": "Apple 18 pro max",
+    "price": 67990,
+    "category": "phone",
+    "stoke": 100,
+    "images": [
+      "/uploads/image/products/R3rX3kX5Lhxk6nW.jpg",
+      "/uploads/image/products/usxr2QLkCJSQKdm.jpg",
+      "/uploads/image/products/XbWPE4W60L5sB4i.jpg",
+      "/uploads/image/products/pykL9KcLRSEbNxk.jpg",
+      "/uploads/image/products/RjdeibEgnH6m6X4.jpg"
+    ],
+    "descriptions": "Apple Product",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:58:19.320Z" },
+    "updatedAt": { "$date": "2024-08-13T08:58:19.320Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb2031c922e3ae94fb46f8" },
+    "brand": "Apple",
+    "title": "Apple 18 pro max",
+    "price": 150000,
+    "category": "phone",
+    "stoke": 100,
+    "images": [
+      "/uploads/image/products/Oi8Wz7tKM6kTxi2.jpg",
+      "/uploads/image/products/8aOZyVJ9fd75FBD.jpg",
+      "/uploads/image/products/CiJ8kbyE2t0QdwL.jpg",
+      "/uploads/image/products/2xMCtqEvEE5kI2y.jpg",
+      "/uploads/image/products/26DPUzR38C4YIdn.jpg"
+    ],
+    "descriptions": "Apple Product",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:58:25.972Z" },
+    "updatedAt": { "$date": "2024-08-13T08:58:25.972Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "66bb203cd72d09af989474db" },
+    "brand": "Apple",
+    "title": "Apple 20 pro max",
+    "price": 250000,
+    "category": "phone",
+    "stoke": 100,
+    "images": [
+      "/uploads/image/products/zYkmAH7YhTfEbr6.jpg",
+      "/uploads/image/products/2NLlXYo544BgBWj.jpg",
+      "/uploads/image/products/Q98od3wxKGwSRLV.jpg",
+      "/uploads/image/products/VV7bZR8JagJuu0L.jpg",
+      "/uploads/image/products/MCaCHMuBcRvdl62.jpg"
+    ],
+    "descriptions": "Apple Product",
+    "rating": "0",
+    "createdAt": { "$date": "2024-08-13T08:58:36.449Z" },
+    "updatedAt": { "$date": "2024-08-13T08:58:36.449Z" },
+    "__v": 0
+  }
+]
